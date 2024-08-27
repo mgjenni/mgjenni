@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mgjenni"> Cloud Enthusiast </a>, <a href="(https://www.linkedin.com/in/matthewgjennings/)"> Solutions Architect </a> </h1>
+<h1>Hi, I'm Matthew! <br/> Solutions Architect , Cloud Enthusiast </h1>
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
