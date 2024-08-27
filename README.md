@@ -8,4 +8,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/matthewgjennings/)
+<h1>linkedin:</h1> [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/matthewgjennings/)
