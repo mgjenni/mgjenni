@@ -4,8 +4,5 @@
 
 - <b> Strike Price Calculator </b>
   - [Introductory Project to AWS. Understanding Basic Services](https://github.com/mgjenni/StrikePrice_Calc)
-
-
-<h2> 🤳 Connect with me:</h2>
-
+  - [Simple Stattic Website Using AWS S3](https://github.com/mgjenni/Company_ID)
 <h1>linkedin:</h1> (https://www.linkedin.com/in/matthewgjennings/)
